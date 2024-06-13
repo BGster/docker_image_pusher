@@ -1,2 +1,2 @@
-nextcloud:nextcloud:28.0.6-apache
+nextcloud:28.0.6-apache
 
