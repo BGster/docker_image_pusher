@@ -1,6 +1,2 @@
-mysql:8.0.29
-onlyoffice/communityserver:12.0.1.1748
-onlyoffice/elasticsearch:7.16.3
-onlyoffice/documentserver:7.1.1.23
-onlyoffice/mailserver:1.6.75
-onlyoffice/controlpanel:3.1.1.467
+nextcloud:nextcloud:28.0.6-apache
+
