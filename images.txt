@@ -1,3 +1,2 @@
-ubuntu/squid:5.7-23.04_edge
-ubuntu/squid:4.13-21.10_edge
-etherpad/etherpad:2.0.3
+etherpad/etherpad:2.2.4
+portainer/portainer-ce:2.20.3-alpine
