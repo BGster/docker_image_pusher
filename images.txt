@@ -1,2 +1,1 @@
-etherpad/etherpad:2.2.4
-portainer/portainer-ce:2.20.3-alpine
+portainer/portainer-ce:2.20.3
