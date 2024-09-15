@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.20.3
+nextcloud/all-in-one:20240914_063340
